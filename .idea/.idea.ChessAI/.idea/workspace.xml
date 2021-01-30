@@ -17,14 +17,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cf0531a-4821-4369-83aa-6a4401c96756" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IMove.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMovePicker.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IPiece.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IPositionScorer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISquare.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessAI/src/Color.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessAI/src/LichessAPIHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessAI/src/MovePicker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessAI/src/State.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ChessAI/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChessAI/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ChessAI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChessAI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IBoard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IBoard.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAI/src/AIMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAI/src/AIMain.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAI/src/IBoard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAI/src/interfaces/IBoard.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAI/src/ILichessAPIHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAI/src/interfaces/ILichessAPIHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAI/src/IMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAI/src/interfaces/IMove.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAI/src/IMovePicker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAI/src/interfaces/IMovePicker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAI/src/IPiece.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAI/src/interfaces/IPiece.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAI/src/IPositionScorer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAI/src/interfaces/IPositionScorer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAI/src/ISquare.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAI/src/interfaces/ISquare.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +41,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ISquare.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/IPiece.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/IMove.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/IPositionScorer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/IMovePicker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/IBoard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessAI/src/interfaces/ISquare.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessAI/src/interfaces/IPiece.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessAI/src/interfaces/IMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessAI/src/MovePicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessAI/src/LichessAPIHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessAI/src/Color.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessAI/src/State.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessAI/src/AIMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessAI/src/interfaces/ILichessAPIHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessAI/src/interfaces/IPositionScorer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessAI/src/interfaces/IMovePicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessAI/src/interfaces/IBoard.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -53,6 +65,16 @@
         <option value="$PROJECT_DIR$/IMovePicker.cs" />
         <option value="$PROJECT_DIR$/IPositionScorer.cs" />
         <option value="$PROJECT_DIR$/IBoard.cs" />
+        <option value="$PROJECT_DIR$/ChessAI/Program.cs" />
+        <option value="$PROJECT_DIR$/ChessAI/src/ILichessAPIHandler.cs" />
+        <option value="$PROJECT_DIR$/ChessAI/src/interfaces/IBoard.cs" />
+        <option value="$PROJECT_DIR$/ChessAI/src/interfaces/IMovePicker.cs" />
+        <option value="$PROJECT_DIR$/ChessAI/src/Color.cs" />
+        <option value="$PROJECT_DIR$/ChessAI/src/MovePicker.cs" />
+        <option value="$PROJECT_DIR$/ChessAI/src/interfaces/ILichessAPIHandler.cs" />
+        <option value="$PROJECT_DIR$/ChessAI/src/LichessAPIHandler.cs" />
+        <option value="$PROJECT_DIR$/ChessAI/src/AIMain.cs" />
+        <option value="$PROJECT_DIR$/ChessAI/src/State.cs" />
       </list>
     </option>
   </component>
@@ -65,6 +87,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -130,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612003011334</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <created>1612006814609</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612006814609</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
@@ -161,21 +192,114 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1612006063860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612006063860" />
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.4.center" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.4.left" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state width="1877" height="375" key="GridCell.Tab.4.right" timestamp="1612013542126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612013542126" />
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1612006122541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1612006122541" />
+    <state x="788" y="221" key="RiderGenerateDialog" timestamp="1612012389705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="788" y="221" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612012389705" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1612003257972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612003257972" />
-    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1612003130743">
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1612011097587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612003130743" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612003015907">
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612011097587" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612006817186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612003015907" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612006817186" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612002373332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

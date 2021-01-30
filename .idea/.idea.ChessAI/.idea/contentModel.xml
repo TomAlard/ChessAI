@@ -16,13 +16,19 @@
         </e>
         <e p="src" t="Include">
           <e p="AIMain.cs" t="Include" />
-          <e p="IBoard.cs" t="Include" />
-          <e p="ILichessAPIHandler.cs" t="Include" />
-          <e p="IMove.cs" t="Include" />
-          <e p="IMovePicker.cs" t="Include" />
-          <e p="IPiece.cs" t="Include" />
-          <e p="IPositionScorer.cs" t="Include" />
-          <e p="ISquare.cs" t="Include" />
+          <e p="Color.cs" t="Include" />
+          <e p="interfaces" t="Include">
+            <e p="IBoard.cs" t="Include" />
+            <e p="ILichessAPIHandler.cs" t="Include" />
+            <e p="IMove.cs" t="Include" />
+            <e p="IMovePicker.cs" t="Include" />
+            <e p="IPiece.cs" t="Include" />
+            <e p="IPositionScorer.cs" t="Include" />
+            <e p="ISquare.cs" t="Include" />
+          </e>
+          <e p="LichessAPIHandler.cs" t="Include" />
+          <e p="MovePicker.cs" t="Include" />
+          <e p="State.cs" t="Include" />
         </e>
       </e>
       <e p="ChessAI.sln" t="IncludeFlat" />

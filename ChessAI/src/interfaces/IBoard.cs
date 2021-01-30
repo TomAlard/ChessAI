@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ChessAI {
+namespace ChessAI.interfaces {
     public interface IBoard {
         IEnumerable<IMove> getAllLegalMoves();
         void updateBoard(IMove playedMove);
