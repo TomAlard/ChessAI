@@ -8,6 +8,7 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="ChessAI.csproj" t="IncludeRecursive" />
       <e p="ChessAI.sln" t="IncludeFlat" />
+      <e p="ChessAI.sln.DotSettings" t="Include" />
       <e p="IBoard.cs" t="Include" />
       <e p="ILichessAPIHandler.cs" t="Include" />
       <e p="IMove.cs" t="Include" />
