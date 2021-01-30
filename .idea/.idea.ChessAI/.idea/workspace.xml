@@ -16,7 +16,16 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cf0531a-4821-4369-83aa-6a4401c96756" name="Default Changelist" comment="" />
+    <list default="true" id="2cf0531a-4821-4369-83aa-6a4401c96756" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IMove.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMovePicker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IPiece.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IPositionScorer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISquare.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChessAI/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChessAI/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChessAI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChessAI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IBoard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IBoard.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,14 +35,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ISquare.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IPiece.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IPositionScorer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IMovePicker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/IBoard.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Class1.cs" />
-        <option value="$PROJECT_DIR$/IBoard.cs" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/IMove.cs" />
+        <option value="$PROJECT_DIR$/IPiece.cs" />
+        <option value="$PROJECT_DIR$/ISquare.cs" />
+        <option value="$PROJECT_DIR$/IMovePicker.cs" />
+        <option value="$PROJECT_DIR$/IPositionScorer.cs" />
+        <option value="$PROJECT_DIR$/IBoard.cs" />
       </list>
     </option>
   </component>
@@ -49,7 +68,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -61,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611995562039</updated>
-      <workItem from="1611995581875" duration="3063000" />
+      <workItem from="1611995581875" duration="5212000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1612002450965</created>
@@ -84,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612002514957</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1612003011334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612003011334</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
@@ -118,14 +144,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="165" key="SettingsEditor" timestamp="1612002351998">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1612003257972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612002351998" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612002601591">
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612003257972" />
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1612003130743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612002601591" />
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612003130743" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612003015907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612003015907" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612002373332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
